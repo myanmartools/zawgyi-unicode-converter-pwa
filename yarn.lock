@@ -1143,17 +1143,17 @@
     lodash.camelcase "^4.3.0"
     protobufjs "^6.8.6"
 
-"@myanmartools/ng-zawgyi-detector@^1.1.3":
-  version "1.1.3"
-  resolved "https://registry.yarnpkg.com/@myanmartools/ng-zawgyi-detector/-/ng-zawgyi-detector-1.1.3.tgz#cc9fe06a3fa7127503e9cf270dcd7a32bb14390f"
-  integrity sha512-n4oYJgSfnWkSAxRl0hK5izRxrZ4uLEftwLVSi9Acj2IiupI4nHlY1/vAm/frd4Jz+Qz2K7ucccL5ZpAUetc3Uw==
+"@myanmartools/ng-zawgyi-detector@^1.1.4":
+  version "1.1.4"
+  resolved "https://registry.yarnpkg.com/@myanmartools/ng-zawgyi-detector/-/ng-zawgyi-detector-1.1.4.tgz#ce5ca42b03782d0dbc07386cfdfbd63df9c96b27"
+  integrity sha512-PWzMmKP8oQDjbB1Zcsp2qNeTljv2SiQcuNNXIAVWzxC7rkVPv3bmuKNqrBVa4DlbFalXVf2fIdI4i6fwVLI54g==
   dependencies:
     tslib "^1.10.0"
 
-"@myanmartools/zawgyi-unicode-translit-rules@^1.1.1":
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/@myanmartools/zawgyi-unicode-translit-rules/-/zawgyi-unicode-translit-rules-1.1.1.tgz#61e1c3c700007f4c86f0782fd12f894c45b9d0d0"
-  integrity sha512-o8J3ghCQnd/F8DQjDog6SbQ7NFSo+rugidGvuh7RSryhZyrVhzCnNcyIPwhfQye7Z5d3PDHtm/lyBCdabMY2bQ==
+"@myanmartools/zawgyi-unicode-translit-rules@^1.1.2":
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/@myanmartools/zawgyi-unicode-translit-rules/-/zawgyi-unicode-translit-rules-1.1.2.tgz#1d9adf97389a55a9924c6deead9b9d8c17c3e6f6"
+  integrity sha512-aktAI5fPZ+isFD2C7SyiR987QAxHNl2dIufhhC5Z/8M6aeoEVcPqFRxjlSoeh2+JeglHLUwZ8q1+BbiVlJn8bA==
 
 "@ngtools/webpack@8.3.9":
   version "8.3.9"
