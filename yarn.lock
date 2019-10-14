@@ -910,10 +910,10 @@
   resolved "https://registry.yarnpkg.com/@dagonmetric/app-styles-base/-/app-styles-base-0.1.1.tgz#a9da329de48403584df04810fa4586715709f33e"
   integrity sha512-vh4iWCYum2Anw7pYgvd8csoTLZnC4qz8kYn17JbLephdmxIVAduN5ygFqfvCumfPUO1D2yn/DSol4q75i8ibLQ==
 
-"@dagonmetric/ng-config@^2.2.0":
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/@dagonmetric/ng-config/-/ng-config-2.2.0.tgz#1815ecfd87a8e93dd14bc3a8dceaf8186e067349"
-  integrity sha512-gZXlbZd66BnJOagkKDnzYh5VdAFd0UekrKEuN1FIxI2IptfAZ1tlIH69BK8YPO97EGjAilCt+8tqW6u7C9gUOw==
+"@dagonmetric/ng-config@^2.2.1":
+  version "2.2.1"
+  resolved "https://registry.yarnpkg.com/@dagonmetric/ng-config/-/ng-config-2.2.1.tgz#d731bb48af08c726a0097cb192c213f2f488c35b"
+  integrity sha512-D5EHYwyAx28pTl4JnPvUmYZmk3gMap0aRXnxQYP7PB9NJABn7cCS9gLlZigT6cHzuzWr+04Y/bkKhg5yh+ePgQ==
   dependencies:
     tslib "^1.10.0"
 
@@ -924,17 +924,17 @@
   dependencies:
     tslib "^1.10.0"
 
-"@dagonmetric/ng-log@^2.2.0":
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/@dagonmetric/ng-log/-/ng-log-2.2.0.tgz#adc2acb94efeb30aad598cfdbabe7be05739dfb3"
-  integrity sha512-5DytRZEoShQbkHoiw7kjHACKT/fPdm5ntNiBKH2QrhwO5t3TsaaUXxy+rYhy8pWrlLBtmtAUy0x9vFDe/CxJOA==
+"@dagonmetric/ng-log@^2.2.1":
+  version "2.2.1"
+  resolved "https://registry.yarnpkg.com/@dagonmetric/ng-log/-/ng-log-2.2.1.tgz#64bc763a2cd58975c9818f8a09145ea7054ac0b1"
+  integrity sha512-pfaxU0QY9QA1v61b+YDPOe4Vzr3BsVVvMHbUWMkSXgfBU1IAqtJ2L9v2HOnEztZuiJ5IhX9tU206SbrCjvlNKQ==
   dependencies:
     tslib "^1.10.0"
 
-"@dagonmetric/ng-translit@^14.2.0":
-  version "14.2.0"
-  resolved "https://registry.yarnpkg.com/@dagonmetric/ng-translit/-/ng-translit-14.2.0.tgz#c7e86644e689cbe8c03b4cd42140c13f92f9a157"
-  integrity sha512-H2ZUCr/96KQZ0J+657OcnEnHP/C+f/r/XNg3N0xGf5vRbdc/gotTBXOYV7Q/nHlfY9z5IO73RhN3CENhrZxF7g==
+"@dagonmetric/ng-translit@^14.2.1":
+  version "14.2.1"
+  resolved "https://registry.yarnpkg.com/@dagonmetric/ng-translit/-/ng-translit-14.2.1.tgz#747cca88d036c0d512f3f890adf18e205280fa94"
+  integrity sha512-wK8b9brLlrrhZ9Xh+IDzqatTKrB85T5ZwNcqLNcePY/TnhURxhKi8jmPnKiXCcz9qYOl8+/wwNDFVQ5lXq33Gg==
   dependencies:
     tslib "^1.9.3"
 
