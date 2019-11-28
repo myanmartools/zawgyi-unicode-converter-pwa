@@ -83,7 +83,7 @@
     "protractor": "~5.4.2",
     "puppeteer": "^2.0.0",
     "reflect-metadata": "^0.1.13",
-    "ts-node": "^8.5.3",
+    "ts-node": "^8.5.4",
     "tslint": "^5.20.1",
     "tslint-microsoft-contrib": "^6.2.0",
     "typescript": "~3.5.3"
