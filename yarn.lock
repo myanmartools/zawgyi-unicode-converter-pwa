@@ -982,10 +982,10 @@
   dependencies:
     tslib "^1.10.0"
 
-"@dagonmetric/ng-translit@^14.2.1":
-  version "14.2.1"
-  resolved "https://registry.yarnpkg.com/@dagonmetric/ng-translit/-/ng-translit-14.2.1.tgz#747cca88d036c0d512f3f890adf18e205280fa94"
-  integrity sha512-wK8b9brLlrrhZ9Xh+IDzqatTKrB85T5ZwNcqLNcePY/TnhURxhKi8jmPnKiXCcz9qYOl8+/wwNDFVQ5lXq33Gg==
+"@dagonmetric/ng-translit@^14.2.2":
+  version "14.2.2"
+  resolved "https://registry.yarnpkg.com/@dagonmetric/ng-translit/-/ng-translit-14.2.2.tgz#4c7bc750ace31089d915aff59c5637437669e777"
+  integrity sha512-wRV+z2+0Rwh74vcnUyuithlg5Tm/f11q0VgzfFjJKNF4KL8LvtJZ/on68ont0cWYrQTkF8mkThF+YmBvq6CXLQ==
   dependencies:
     tslib "^1.9.3"
 
