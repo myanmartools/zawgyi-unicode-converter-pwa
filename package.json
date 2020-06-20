@@ -49,7 +49,7 @@
     "@dagonmetric/ng-log-firebase-analytics": "^1.0.1",
     "@dagonmetric/ng-log-gtag": "^2.2.4",
     "@dagonmetric/ng-translit": "^14.2.3",
-    "@myanmartools/ng-zawgyi-detector": "^1.2.1",
+    "@myanmartools/ng-zawgyi-detector": "^1.2.2",
     "@myanmartools/zawgyi-unicode-translit-rules": "^1.1.3",
     "@nguniversal/express-engine": "^9.1.1",
     "express": "^4.17.1",
