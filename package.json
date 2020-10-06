@@ -55,7 +55,7 @@
     "firebase": "^7.22.1",
     "hammerjs": "^2.0.8",
     "rxjs": "^6.6.3",
-    "tslib": "^2.0.1",
+    "tslib": "^2.0.2",
     "zone.js": "^0.11.1"
   },
   "devDependencies": {
