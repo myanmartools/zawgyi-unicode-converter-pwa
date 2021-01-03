@@ -44,7 +44,7 @@
     "@angular/service-worker": "^11.0.5",
     "@dagonmetric/ng-cache": "^2.1.1",
     "@dagonmetric/ng-config": "^4.3.2",
-    "@dagonmetric/ng-config-firebase-remote-config": "^4.3.1",
+    "@dagonmetric/ng-config-firebase-remote-config": "^4.3.2",
     "@dagonmetric/ng-log": "^2.3.2",
     "@dagonmetric/ng-log-firebase-analytics": "^2.1.2",
     "@dagonmetric/ng-translit": "^14.3.1",
