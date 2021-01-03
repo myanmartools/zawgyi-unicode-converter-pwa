@@ -45,7 +45,7 @@
     "@dagonmetric/ng-cache": "^2.1.2",
     "@dagonmetric/ng-config": "^4.3.2",
     "@dagonmetric/ng-config-firebase-remote-config": "^4.3.2",
-    "@dagonmetric/ng-log": "^2.3.2",
+    "@dagonmetric/ng-log": "^2.3.3",
     "@dagonmetric/ng-log-firebase-analytics": "^2.1.3",
     "@dagonmetric/ng-translit": "^14.3.1",
     "@myanmartools/ng-zawgyi-detector": "^1.2.5",
