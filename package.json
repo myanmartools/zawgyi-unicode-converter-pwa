@@ -50,7 +50,7 @@
     "@dagonmetric/ng-translit": "^14.3.2",
     "@myanmartools/ng-zawgyi-detector": "^1.2.6",
     "@myanmartools/zawgyi-unicode-translit-rules": "^1.1.6",
-    "@nguniversal/express-engine": "^12.1.1",
+    "@nguniversal/express-engine": "^12.1.2",
     "express": "^4.17.1",
     "firebase": "^8.10.0",
     "hammerjs": "^2.0.8",
