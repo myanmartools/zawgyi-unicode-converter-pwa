@@ -75,7 +75,7 @@
     "eslint-plugin-jsdoc": "^38.1.6",
     "eslint-plugin-prettier": "^4.2.1",
     "prettier": "^2.6.0",
-    "jasmine-core": "^4.0.1",
+    "jasmine-core": "^4.6.0",
     "jasmine-spec-reporter": "~7.0.0",
     "karma": "~6.3.17",
     "karma-chrome-launcher": "~3.1.1",
